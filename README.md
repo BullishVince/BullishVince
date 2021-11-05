@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[age]: 2021-1994
 
-Name's Vincent. Worked as a mainframe developer for 3 years (2017-2020).
+Name's Vincent. 
+I am a developer in my 20's 😄.  
+Worked as a mainframe developer for 3 years (2017-2020).  
 Currently working as a full-stack developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) 🏦  
   
 Below is a list of frameworks, languages and tech-stacks I am using daily;
