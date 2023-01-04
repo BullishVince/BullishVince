@@ -10,7 +10,9 @@ I run the website [LearnJavaScripts.com](https://learnjavascripts.com). It is a 
 Education: B.Sc in Electrical Engineering from [KTH, Royal Institute of Technology](https://www.kth.se/en) (2014-2017)  
 Worked as a mainframe developer for 3 years (2017-2020).  
 Currently working as a full-stack developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) 🏦  
-  
+<a href="http://buymeacoffee.com/BullishVince" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>  
  ## Badges  
 ![codewars](https://www.codewars.com/users/BullishVince/badges/large)  
   
