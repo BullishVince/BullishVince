@@ -3,7 +3,7 @@
 Name's Vincent. 
 I'm a developer in my 20's 😄.  
   
-I run the website [LearnJavaScripts.com](https://learnjavascripts.com). It is a website where I share things I know about software development. The content can be anything between web development and infrastructure to UX-design and blockchain, if I'm interested in it I'll probably publish content about it 😎
+I run the website [LearnJavaScripts.com](https://learnjavascripts.com). It is a website where I share things I know about software development. The content can be anything between web development and infrastructure to UX-design and blockchain, if I'm interested in it I'll probably publish content about it 😎  
 ![image](https://user-images.githubusercontent.com/61637268/210642098-d02c9a6e-da95-4cb7-b6d1-8ea78eb73cd2.png)
 
   
