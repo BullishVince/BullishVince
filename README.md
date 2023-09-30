@@ -9,8 +9,10 @@ I'm a developer in my 20's 😄.
 I run the websites **[LearnJavaScripts.com](https://learnjavascripts.com)** and **[BullishLife.com](https://BullishLife.com)**.  
 I use these websites for publishing things I know about software development. The content can be anything between backend development and infrastructure to UX-design, frontend stuff and blockchains, if I'm interested in it I'll probably publish content about it 😎  
   
-<img src="https://github.com/BullishVince/BullishVince/assets/61637268/62692259-1d95-4bbe-a07f-dad6fe88a399" alt="BullishLife_logo" width="100" style="display: inline;"/>
-<img src="https://user-images.githubusercontent.com/61637268/210642098-d02c9a6e-da95-4cb7-b6d1-8ea78eb73cd2.png" alt="learnjavascript_logo" width="100" style="display: inline;"/>  
+<p float="left">
+<img src="https://github.com/BullishVince/BullishVince/assets/61637268/62692259-1d95-4bbe-a07f-dad6fe88a399" alt="BullishLife_logo" width="100"/>
+<img src="https://user-images.githubusercontent.com/61637268/210642098-d02c9a6e-da95-4cb7-b6d1-8ea78eb73cd2.png" alt="learnjavascript_logo" width="100"/> 
+</p> 
   
 ## Education and Previous Experience   
 B.Sc in Electrical Engineering from [KTH, Royal Institute of Technology](https://www.kth.se/en) **(2014-2017)**.  
