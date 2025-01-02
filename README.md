@@ -2,12 +2,9 @@
 
 Name's Vincent. 
 I'm a developer in my 30's 😄.  
-<a href="http://buymeacoffee.com/BullishVince" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
   
-I run the websites **[LearnJavaScripts.com](https://learnjavascripts.com)** and **[BullishLife.com](https://BullishLife.com)**.  
-I use these websites for publishing things I know about software development. The content can be anything between backend development and infrastructure to UX-design, frontend stuff and blockchains, if I'm interested in it I'll probably publish content about it 😎  
+I used to run multiple websites but the majority got hit by Google HCUs, the only site still running is **[BullishLife.com](https://BullishLife.com)**.  
+I use this website to publish things I know about software development. The content can be anything between backend development and infrastructure to UX design, frontend stuff, and blockchains, if I'm interested in it I'll probably publish content about it 😎  
   
 <p float="left">
 <img src="https://github.com/BullishVince/BullishVince/assets/61637268/62692259-1d95-4bbe-a07f-dad6fe88a399" alt="BullishLife_logo" width="100"/>
