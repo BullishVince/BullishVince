@@ -3,8 +3,8 @@
 Name's Vincent. 
 I'm a developer in my 30's 😄.  
   
-I used to run multiple websites but the majority got hit by Google HCUs, the only site still running is **[BullishLife.com](https://BullishLife.com)**.  
-I use this website to publish things I know about software development. The content can be anything between backend development and infrastructure to UX design, frontend stuff, and blockchains, if I'm interested in it I'll probably publish content about it 😎  
+I used to run multiple websites but decided to close them when the whole AI trend took over.  
+The websites were used to publish things I know about software development. The content was anything between backend development and infrastructure to UX design, frontend stuff, and blockchains, if I'm interested in it I'll probably publish content about it 😎  
   
 <p float="left">
 <img src="https://github.com/BullishVince/BullishVince/assets/61637268/62692259-1d95-4bbe-a07f-dad6fe88a399" alt="BullishLife_logo" width="100"/>
@@ -14,17 +14,16 @@ I use this website to publish things I know about software development. The cont
 ## Education and Previous Experience   
 B.Sc in Electrical Engineering from [KTH, Royal Institute of Technology](https://www.kth.se/en) **(2014-2017)**.  
   
-Worked as a Mainframe developer for 3 years **(2017-2020)**.  
-   
-Currently working as a Tech Lead (Fullstack Development) @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) 🏦  
+Mainframe Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com)r **(2017-2020)**.  
+Fullstack Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2020-2024)** 🏦 
+Tech Lead @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2024-2025)** 🏦 
+Fullstack Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2025-current)** 🏦 
   
  ## Badges  
 ![codewars](https://www.codewars.com/users/BullishVince/badges/large)  
-  
- <a href="https://stackoverflow.com/users/20749510/learnjavascripts-com"><img src="https://stackoverflow.com/users/flair/20749510.png" width="208" height="58" alt="profile for LearnJavaScripts.com at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for LearnJavaScripts.com at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
   
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BullishVince&langs_count=8&layout=compact)](https://github.com/BullishVince)  
   
 ## How do I find you? 🤔  
-You can contact me through email ([Vincent@BullishLife.com](mailto:Vincent@BullishLife.com)) or by connecting with me on [LinkedIn](https://se.linkedin.com/in/vincent-widerberg-340a37108)  
+[LinkedIn](https://se.linkedin.com/in/vincent-widerberg-340a37108)  
