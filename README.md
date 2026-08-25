@@ -15,9 +15,9 @@ The websites were used to publish things I know about software development. The 
 B.Sc in Electrical Engineering from [KTH, Royal Institute of Technology](https://www.kth.se/en) **(2014-2017)**.  
   
 Mainframe Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com)r **(2017-2020)**.  
-Fullstack Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2020-2024)** 🏦 
-Tech Lead @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2024-2025)** 🏦 
-Fullstack Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2025-current)** 🏦 
+Fullstack Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2020-2024)** 🏦  
+Tech Lead @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2024-2025)** 🏦   
+Fullstack Developer @ [SEB, Skandinaviska Enskilda Banken](https://sebgroup.com) **(2025-current)** 🏦   
   
  ## Badges  
 ![codewars](https://www.codewars.com/users/BullishVince/badges/large)  
